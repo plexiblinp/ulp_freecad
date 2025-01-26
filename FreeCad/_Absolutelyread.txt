@@ -1,3 +1,10 @@
+Text created by a translation service.
+
+Use at your own risk.
+Modify the Corrections.txt section according to the material and the place of order.
+
+After placing an order, you are responsible if it does not fit or if you break the switch.
+
 As per data sheet
 ulpkey_12.6.FCStd
 
