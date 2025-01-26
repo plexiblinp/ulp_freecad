@@ -1,0 +1,14 @@
+データシート通り
+ulpfix_12.4.FCStd
+ulpkey_12.6.FCStd
+
+円筒凹み
+ulpfix_Spherical_12.4.FCStd
+ulpfix_Spherical_12.6.FCStd
+
+円形凹み
+ulpfix_Cylindrical_12.4.FCStd
+ulpfix_Cylindrical_12.6.FCStd
+
+お試し形状（円筒凹みかつ足をつけた。細すぎて割れてしまう問題への強引な対処。）
+ulpfix_test_12.6.FCStd
