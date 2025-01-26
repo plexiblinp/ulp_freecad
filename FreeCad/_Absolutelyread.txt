@@ -1,0 +1,17 @@
+As per data sheet
+ulpkey_12.6.FCStd
+
+Vertical length is 12.4mm.
+I ordered according to the data sheet and it was too loose.
+ulpfix_12.4.FCStd
+
+Spherical concave
+ulpfix_Spherical_12.4.FCStd
+ulpfix_Spherical_12.6.FCStd
+
+Cylindrical concave
+ulpfix_Cylindrical_12.4.FCStd
+ulpfix_Cylindrical_12.6.FCStd
+
+Trial shape (Spherical concave and footed. A forced solution to the problem of too thin and cracking.)
+ulpfix_test_12.6.FCStd
