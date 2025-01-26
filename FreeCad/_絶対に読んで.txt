@@ -1,12 +1,20 @@
+利用は自己責任。
+Corrections.txtの部分を発注先や素材に応じて修正。
+
+発注した後、はまらなかったりスイッチを壊しても自己責任で。
+
 データシート通り
-ulpfix_12.4.FCStd
 ulpkey_12.6.FCStd
 
-円筒凹み
+縦の長さが12.4mm
+データシート通りで発注したらゆるすぎた
+ulpfix_12.4.FCStd
+
+球系凹み
 ulpfix_Spherical_12.4.FCStd
 ulpfix_Spherical_12.6.FCStd
 
-円形凹み
+円筒凹み
 ulpfix_Cylindrical_12.4.FCStd
 ulpfix_Cylindrical_12.6.FCStd
 
